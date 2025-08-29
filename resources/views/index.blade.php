@@ -6,7 +6,7 @@
         <div class="section-header">
             <h1>Dashboard</h1>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+        <div class="col-lg-11 col-md-6 col-sm-6 col-12">
             <div class="card card-statistic-1">
                 <div class="card-icon bg-info">
                     <i class="fas fa-file-excel"></i>
@@ -54,7 +54,7 @@
                         <select id="filtroNivel" class="form-control">
                             <option value="" selected disabled>Nivel</option>
                             <option value="TECNICO"   >TECNICO</option>
-                            <option value="TECNOLOGO"   >TECNOLOGO</option>
+                            <option value="TECNÓLOGO"   >TECNOLOGO</option>
                         </select>
                     </div>
                 </div>

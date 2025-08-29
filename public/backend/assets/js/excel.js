@@ -213,6 +213,8 @@ input.addEventListener('input', ()=>{
 
     };
 
+    location.reload();
+
     CalcularDatos();
 
 })
